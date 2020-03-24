@@ -106,6 +106,49 @@ hr {
   margin-top:100px;
 }
 
+@media (max-width : 1000px){
+  .fotoprofil{
+    width: 150px !important;
+    height: 150px !important;
+  }
+  #box-profile .profilku{
+    padding-left: 80px !important;
+  }
+  .description{
+    top: 105px !important;
+    width: 270px !important;
+  }
+  .description h1{
+    font-size: 16pt !important;
+    margin-bottom: 20px !important;
+  }
+  .description p{
+    font-size: 12pt !important;
+  }
+  .button1{
+    font-size: 8pt !important;
+    padding-right: 18px !important;
+    padding-left:18px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  .button2{
+    font-size: 8pt !important;
+    padding-right: 18px !important;
+    padding-left:18px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  .keterangan{
+    font-size: 12pt !important;
+    top: 110px !important;
+  }
+  .keterangan .data{
+    margin-top: 2px !important;
+    height: 50px !important;
+  }
+}
+
 section#box-profile{
   position: relative;
   width: 100%;
